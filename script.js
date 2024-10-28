@@ -63,9 +63,13 @@ console.log(cost);
     message = 'My name is Name';
     //console.log(alert(message));
 
-    const age = 100;
-    message = `I am ${100} years old`;
-    console.log(message);
+    // const age = 100;
+    // message = `I am ${100} years old`;
+    // console.log(message);
 
     message = 'My name is Name';
+    console.log(message);
+
+    const age = 200;
+    message = `I am ${200} years old`;
     console.log(message);
